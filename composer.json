@@ -1,0 +1,16 @@
+{
+    "name": "puleeno/wordland-hubspot-crm",
+    "description": "The HubSpot CRM plugin for WordLand",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hubspot/hubspot-php": "2.0.5"
+    }
+}
